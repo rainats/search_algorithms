@@ -1,4 +1,4 @@
-# Implementing the following search_algorithms for 3 different maps:
+# Implementing the following search algorithms for 3 different maps:
 
 - Breadth First Search
 - Depth First Search
